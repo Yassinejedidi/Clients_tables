@@ -1,0 +1,38 @@
+.button1 {
+    float: left;
+    margin-left: 7px;
+    border-radius: 3px;
+}
+
+#tt {
+    margin-right: 91%;
+}
+
+#bb {
+    border-radius: 50%;
+    margin-right: 7px;
+    height: 50%;
+
+}
+
+#input {
+    float: right;
+    margin-right: 13px;
+    border-radius: 50px;
+    border: 1px solid gray;
+    outline: none;
+    cursor: pointer;
+    padding: 2px 23px 2px 30px;
+    font-size: large;
+
+}
+
+#II {
+    font-size: 1.6em;
+    margin-left: 70.1%;
+}
+
+#input:focus {
+    border: none;
+    outline: none;
+}

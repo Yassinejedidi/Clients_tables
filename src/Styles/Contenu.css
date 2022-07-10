@@ -1,0 +1,23 @@
+._Contenu {
+
+    background-color: rgba(115, 134, 134, 0.199);
+    height: 92vh;
+    display: grid;
+    place-items: center;
+
+
+}
+
+._container {
+    margin: 0%;
+    background-color: white;
+    width: 82%;
+    height: 97%;
+    margin-left: 17%;
+    margin-right: 25px;
+    overflow-x: hidden;
+    overflow-y: auto;
+
+    box-shadow: 0 1px 3px rgba(255, 251, 251, 0.596), 0 1px 2px rgba(134, 116, 116, 0.637);
+
+}

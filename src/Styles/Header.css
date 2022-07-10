@@ -1,0 +1,48 @@
+.__Header {
+    padding: 10px;
+    height: 60px;
+    display: block;
+}
+
+.icon {
+    font-size: 1.9em;
+    margin-right: 65%;
+
+
+}
+
+.header_right {
+    width: 30%;
+    padding-right: 25%;
+    margin-left: 17%;
+    float: left;
+
+}
+
+.header_left {
+    margin-left: 70%;
+    padding-left: 23%;
+
+
+
+
+}
+
+select {
+    border: none;
+    width: 45%;
+    color: gray;
+    font-weight: 500;
+    font-size: 13%;
+    text-decoration: none;
+    background-color: transparent;
+    outline: 0px;
+}
+
+
+
+
+option {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

@@ -1,0 +1,108 @@
+.__Side {
+    margin: 0;
+    padding: 0;
+    width: 280px;
+    background-color: rgb(12, 12, 41);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.Logo {
+    padding: 0%;
+    height: 80px;
+    border-bottom: 1px solid rgb(34, 34, 71);
+
+}
+
+.Logo>img {
+    top: 3px;
+    width: 70px;
+    height: 70px;
+    margin: 2px;
+
+}
+
+
+
+.Option {
+    padding: 0%;
+    height: 60px;
+
+    border-bottom: 1px solid rgb(34, 34, 71);
+
+
+}
+
+.Option>button {
+    justify-content: center;
+    margin: 19px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(12, 12, 41);
+    text-decoration: none;
+    border: none;
+}
+
+button:hover {
+    color: rgb(0, 191, 255);
+    font-size: 17px;
+}
+
+.Option>button:focus {
+    background-color: rgba(0, 191, 255, 0.767);
+    width: 280px;
+    margin: 0%;
+    height: 60px;
+    font-size: 19px;
+
+
+}
+
+
+
+
+
+#drop {
+    justify-content: center;
+    margin: 10px;
+    font-size: large;
+    color: white;
+    background-color: rgb(12, 12, 41);
+    text-decoration: none;
+    border: none;
+    outline: 0px;
+
+
+
+
+
+}
+
+#drop1 {
+    background-color: rgb(12, 12, 41);
+    border: none;
+    outline: 0px;
+    font-size: large;
+
+
+
+
+
+
+
+}
+
+#drop1:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+
+}
+
+#drop1:hover {
+    font-size: 19px;
+    color: rgb(0, 191, 255);
+
+
+}
